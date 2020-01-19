@@ -1,17 +1,22 @@
-{"peliculas":[
-    {
-        "id":"1",
-        "title": "Aliens",
-        "director": "James Cameron",
-        "year": "1996",
-        "rating": "8.5"
-    },
-    {
-        "id":"2",
-        "title": "The Dark Knight",
-        "director": "Cristopher Nolan",
-        "year": "2008",
-        "rating": "10"
-    }
-]
+{
+    "marcadores": [
+      {
+        "latitude": 40.416875,
+        "longitude": -3.703308,
+        "city": "Madrid",
+        "description": "Puerta del Sol"
+      },
+      {
+        "latitude": 40.417438,
+        "longitude": -3.693363,
+        "city": "Madrid",
+        "description": "Paseo del Prado"
+      },
+      {
+        "latitude": 40.407015,
+        "longitude": -3.691163,
+        "city": "Madrid",
+        "description": "Estación de Atocha"
+      }
+    ]
 }
