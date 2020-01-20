@@ -1,22 +1,7 @@
 {
-    "marcadores": [
-      {
-        "latitude": 40.416875,
-        "longitude": -3.703308,
-        "city": "Madrid",
-        "description": "Puerta del Sol"
-      },
-      {
-        "latitude": 40.417438,
-        "longitude": -3.693363,
-        "city": "Madrid",
-        "description": "Paseo del Prado"
-      },
-      {
-        "latitude": 40.407015,
-        "longitude": -3.691163,
-        "city": "Madrid",
-        "description": "Estación de Atocha"
-      }
+   "frutas": [
+       { "nombre_fruta":"Manzana" , "cantidad":10 }, 
+       { "nombre_fruta":"Pera" , "cantidad":20 }, 
+       { "nombre_fruta":"Naranja" , "cantidad":30 }
     ]
 }
